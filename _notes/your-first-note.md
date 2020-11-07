@@ -7,11 +7,10 @@ Let's add some links
 
 [-nick-milo](../pubzk/-nick-milo.md)
 
-
-[[videos-on-how-to-zk]]
-
-
 [commonmark-markdown](../pubzk/commonmark-markdown.md)
+
+[about](../_pages/about.md)
+
 
 
 ### Welcome!
