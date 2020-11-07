@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/-nick-milo.md",
-            "mode": "preview"
+            "file": "_pages/index.md",
+            "mode": "source"
           }
         }
       }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/-nick-milo.md"
+                "file": "_pages/index.md"
               }
             }
           }
@@ -76,10 +76,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_pages/index.md",
     "_notes/-nick-milo.md",
     "_pages/page-1.md",
     "page-1.md",
-    "_pages/index-trial.md",
-    "_pages/index.md"
+    "_pages/index-trial.md"
   ]
 }

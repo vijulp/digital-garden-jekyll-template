@@ -15,6 +15,10 @@ Shanna is going to add some stuff here.
 
 Like this link [cats](../_notes/cats.md)
 or my own index [index-trial](index-trial.md)
+[-markdown](../_notes/-markdown.md)
+[-nick-milo](../_notes/-nick-milo.md)
+
+try it
 
 This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
 
