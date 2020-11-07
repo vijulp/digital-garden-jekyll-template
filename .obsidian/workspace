@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_pages/index.md",
+            "file": "_notes/your-first-note.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/index.md"
+                "file": "_notes/your-first-note.md"
               }
             }
           }
@@ -76,6 +76,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_notes/your-first-note.md",
     "_pages/index.md",
     "_notes/-nick-milo.md",
     "_pages/page-1.md",
