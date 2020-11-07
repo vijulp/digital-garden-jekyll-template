@@ -15,7 +15,7 @@ Shanna is going to add some stuff here.
 
 Like this link [cats](../_notes/cats.md)
 or my own index [index-trial](index-trial.md)
-[-markdown](../pubzk/-markdown)
+[[-markdown]]
 [-nick-milo](../pubzk/-nick-milo)
 
 try it
