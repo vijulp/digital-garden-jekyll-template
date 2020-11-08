@@ -1,3 +1,7 @@
+---
+title: Zettelkasten
+---
+
 <small>← [Home](../page-1.md)</small>
 
 # Zettelkasten
@@ -9,12 +13,12 @@ First learned about zettelkasten from [www.zettelkasten.de](https://zettelkasten
 
 
 ### Notes About Zettelkasten
-- "How to ZK" [videos-on-how-to-zk](../_notes/videos-on-how-to-zk.md)
-- [There's no such thing as permanent notes](zettelkasten-not-permanent-notes)
+- "How to ZK" [[videos-on-how-to-zk]]
+- [There's no such thing as permanent notes](/zettelkasten-not-permanent-notes)
 
 ### Related Notes
-- [Short blog post about sharing the zk concept with more people](show-people-zettelkasten-via-job-site)
-- I plan to build my note library with [markdown](-markdown)
+- [Short blog post about sharing the zk concept with more people](/show-people-zettelkasten-via-job-site)
+- I plan to build my note library with [markdown](/-markdown)
 
 <br>
 

@@ -13,18 +13,18 @@ permalink: /
 
 Shanna is going to add some stuff here. Shanna's repo for this site: <a href="https://github.com/ShannaSeigel/digital-garden-jekyll-template">https://github.com/ShannaSeigel/digital-garden-jekyll-template</a>
 
-Like this link [cats](../_notes/cats.md)
-or my own index [index-trial no .md](index-trial)
+Like this link [cats](/cats)
+or my own index [index-trial no .md](/index-trial)
 
-[[../_notes/-markdown]]
+[[markdown]]
 
-- [-nick-milo](../_notes/-nick-milo)
-- [consistency](../_notes/consistency.md){: .internal-link}
-- [-zettelkasten](../_notes/-zettelkasten.md){: .internal-link}
-- [videos-on-how-to-zk](../_notes/videos-on-how-to-zk.md){: .internal-link}
-- [page-1](page-1.md){: .internal-link}
-- [program-babelmark-for-markdown](../_notes/program-babelmark-for-markdown.md)
-- [hello-note](../_notes/hello-note.md){: .internal-link}
+- [[nick milo]]
+- [[consistency]]
+- [[zettelkasten]]
+- [[videos on how to zk]]
+- [page 1](/page-1)
+- [[program babelmark for markdown]]
+- [[hello note]]
 
 try it
 

@@ -1,3 +1,10 @@
+---
+layout: page
+title: Page 1
+id: page-1
+permalink: /page-1
+---
+
 <small>↙ [Obsidian Publish](index.md) / [shanna.fyi](https://shanna.fyi/)</small>
 
 # Digital Brain Lvl5 👩🏻

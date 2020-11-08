@@ -1,3 +1,7 @@
+---
+title: Hello note
+---
+
 # Hello Note to You
 This is a note with text
 

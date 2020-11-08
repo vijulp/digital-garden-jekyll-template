@@ -1,3 +1,7 @@
+---
+title: "Babelmark"
+---
+
 <small>← [Markdown Map](../zk-public/-markdown)</small>
 
 [Babelmark](https://johnmacfarlane.net/babelmark2/) is a tool for comparing output of [markdown](../zk-public/-markdown) for plain text documents. Can copy+paste text directly into the tool.

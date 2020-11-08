@@ -1,3 +1,7 @@
+---
+title: Pandoc for Markdown
+---
+
 <small>← [Markdown Map](../zk-public/-markdown)</small>
 
 # Pandoc

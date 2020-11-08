@@ -1,3 +1,7 @@
+---
+title: "Videos on how to ZK"
+---
+
 <small>← [-zettelkasten](-zettelkasten)</small>
 
 # zettelkasten.de Q&A Sessions
