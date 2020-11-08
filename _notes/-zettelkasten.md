@@ -9,7 +9,7 @@ First learned about zettelkasten from [www.zettelkasten.de](https://zettelkasten
 
 
 ### Notes About Zettelkasten
-- "How to ZK" [Video Q&A](videos-on-how-to-zk)
+- "How to ZK" [videos-on-how-to-zk](../_notes/videos-on-how-to-zk.md)
 - [There's no such thing as permanent notes](zettelkasten-not-permanent-notes)
 
 ### Related Notes

@@ -14,11 +14,15 @@ permalink: /
 Shanna is going to add some stuff here.
 
 Like this link [cats](../_notes/cats.md)
-or my own index [index-trial](index-trial.md)
+or my own index [index-trial no .md](index-trial)
 
 [[-markdown]]
 
 [-nick-milo](../pubzk/-nick-milo)
+
+- [-zettelkasten](../_notes/-zettelkasten.md)
+- [videos-on-how-to-zk](../_notes/videos-on-how-to-zk.md)
+- [page-1](page-1.md)
 
 try it
 

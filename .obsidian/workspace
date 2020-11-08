@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/your-first-note.md",
+            "file": "_pages/index.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/your-first-note.md"
+                "file": "_pages/index.md"
               }
             }
           }
@@ -72,12 +72,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "lastOpenFiles": [
-    "_notes/your-first-note.md",
     "_pages/index.md",
+    "_notes/-zettelkasten.md",
+    "pubzk/-zettelkasten.md",
+    "_notes/videos-on-how-to-zk.md",
+    "_notes/your-first-note.md",
     "_notes/-nick-milo.md",
     "_pages/page-1.md",
     "page-1.md",
