@@ -4,10 +4,11 @@
 [Video 1: How to start ZK](https://zettelkasten.de/posts/qna-1-how-to-start/)
 
 ADDING LINKS Nov-08-2020
-- [consistency](consistency.md)
-- [-markdown](-markdown.md)
-- [index](../_pages/index.md)
-- [page-1](../_pages/page-1.md)
+- [consistency](consistency.md){: .internal-link}
+- [-markdown](-markdown.md){: .internal-link}
+- [index](../_pages/index.md){: .internal-link}
+- [page-1](../_pages/page-1.md){: .internal-link}
+- [hello-note](hello-note.md){: .internal-link}
 
 
 

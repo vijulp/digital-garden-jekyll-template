@@ -76,14 +76,14 @@
   },
   "lastOpenFiles": [
     "_pages/index.md",
-    "_notes/your-first-note.md",
-    "_notes/cats.md",
     "_notes/videos-on-how-to-zk.md",
-    "pubzk/-markdown.md",
-    "_notes/-zettelkasten.md",
-    "pubzk/-zettelkasten.md",
-    "_notes/-nick-milo.md",
-    "_pages/page-1.md",
-    "page-1.md"
+    "_notes/your-first-note.md",
+    "_notes/program-pandoc.md",
+    "_notes/program-babelmark-for-markdown.md",
+    "_notes/hello-note.md",
+    "_notes/consistency.md",
+    "_notes/commonmark-markdown.md",
+    "_notes/cats.md",
+    "_notes/-zettelkasten.md"
   ]
 }
