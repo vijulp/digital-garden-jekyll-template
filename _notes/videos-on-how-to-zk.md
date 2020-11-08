@@ -3,6 +3,14 @@
 # zettelkasten.de Q&A Sessions
 [Video 1: How to start ZK](https://zettelkasten.de/posts/qna-1-how-to-start/)
 
+ADDING LINKS Nov-08-2020
+- [consistency](consistency.md)
+- [-markdown](-markdown.md)
+- [index](../_pages/index.md)
+- [page-1](../_pages/page-1.md)
+
+
+
 - Pick a topic of interest
 - Make a structure note to track related ideas
 - Branch off from structure note for specific ideas

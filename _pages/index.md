@@ -16,13 +16,14 @@ Shanna is going to add some stuff here. Shanna's repo for this site: <a href="ht
 Like this link [cats](../_notes/cats.md)
 or my own index [index-trial no .md](index-trial)
 
-[[-markdown]]
+[[../_notes/-markdown]]
 
-[-nick-milo](../pubzk/-nick-milo)
-
+- [-nick-milo](../_notes/-nick-milo)
+- [consistency](../_notes/consistency.md)
 - [-zettelkasten](../_notes/-zettelkasten.md)
 - [videos-on-how-to-zk](../_notes/videos-on-how-to-zk.md)
 - [page-1](page-1.md)
+- [program-babelmark-for-markdown](../_notes/program-babelmark-for-markdown.md)
 
 try it
 
