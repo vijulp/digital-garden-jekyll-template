@@ -7,11 +7,11 @@ permalink: /
 
 # Welcome! 🌱
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
+<p style="padding: 3em 1em; background: pink; border-radius: 4px;">
   Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
 </p>
 
-Shanna is going to add some stuff here.
+Shanna is going to add some stuff here. Shanna's repo for this site: https://github.com/ShannaSeigel/digital-garden-jekyll-template
 
 Like this link [cats](../_notes/cats.md)
 or my own index [index-trial no .md](index-trial)
