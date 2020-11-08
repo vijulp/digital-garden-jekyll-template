@@ -11,7 +11,7 @@ permalink: /
   Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
 </p>
 
-Shanna is going to add some stuff here. Shanna's repo for this site: https://github.com/ShannaSeigel/digital-garden-jekyll-template
+Shanna is going to add some stuff here. Shanna's repo for this site: <a href="https://github.com/ShannaSeigel/digital-garden-jekyll-template">https://github.com/ShannaSeigel/digital-garden-jekyll-template</a>
 
 Like this link [cats](../_notes/cats.md)
 or my own index [index-trial no .md](index-trial)
