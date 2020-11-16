@@ -3,9 +3,9 @@ title: First note
 image: /assets/image.jpg
 ---
 
-### Welcome!
+### Welcome! 🎯
 
-Stay tuned, first post coming soon. Until then, enjoy some of the most clear-thinker, :thread: - writers favorite people on <a title="Twitter" rel="noopener" target="_blank" href="https://twitter.com/vijulp">Twitter</a> 
+Stay tuned, first post coming soon. Until then, enjoy some of the most clear-thinker , 🧵 writers favorite people on <a title="Twitter" rel="noopener" target="_blank" href="https://twitter.com/vijulp">Twitter</a> 
 
 - [Naval](www.twitter.com/naval)
 - [James Clear](www.twitter.com/jamesclear)
