@@ -11,7 +11,7 @@ permalink: /
   Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
 </p>
 
-I'm a Cloud Solutions Architect based in Toronto. I work with customers to accelerate their cloud adoption journey. I enjoy being at the forefront of digital transformation journey for customers. Areas of interest include cloud computing, cryptocurrency, and clean energy. 
+I'm a Cloud Solutions Architect based in Toronto. I work with customers to accelerate their cloud adoption journey. Areas of interest include cloud computing, cryptocurrency, and clean energy. 
 
 I'm active on <a title="Twitter" rel="noopener" target="_blank" href="https://twitter.com/vijulp">Twitter</a> &mdash; direct messages are open! Say hi! 👋
 
