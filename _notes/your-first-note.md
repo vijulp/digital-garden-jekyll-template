@@ -1,5 +1,5 @@
 ---
-title: Your first seed
+title: First note
 image: /assets/image.jpg
 ---
 
@@ -12,6 +12,5 @@ Stay tuned, first post coming soon. Until then, enjoy some of the most clear-thi
 - [David Perell](www.twitter.com/)
 - [Julian Shapiro](www.twitter.com/julian)
 - [Joe Pompliano](www.twitter.com/JoePompliano)
-
 
 ![]({{page.image}})
